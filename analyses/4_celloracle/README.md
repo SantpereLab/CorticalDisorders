@@ -29,7 +29,6 @@ _by Xoel Mato Blanco_
 - `0_Rplots.R`
 - `3_GenePresence.ipynb`
 - `3_PerturbationHeatmap.v5.ipynb`
-- `3_PSSs.ipynb`
 - `3_ScoreComparisons`
 
 ### Comparison with mouse results
