@@ -1,4 +1,7 @@
-This repository contains the code used for the paper "Early Developmental Origins of Cortical Disorders Modeled in Human Neural Stem Cells".
+This repository contains the code used for the paper **_Early Developmental Origins of Cortical Disorders Modeled in Human Neural Stem Cells_**.
+
+Each folder under `analyses` contains the code used for the different analyses performed in the paper. The README.md file in each folder provides a brief description of the analyses performed in that folder.
+
 
 ### Citation
 **Early Developmental Origins of Cortical Disorders Modeled in Human Neural Stem Cells**  
