@@ -2,7 +2,9 @@
 _by Xoel Mato Blanco_
 
 ## SCVI model, marker genes visualizations and identity assignment
+Related to Supp. Figure 9
 - `1_Annotation.ipynb`
 
 ## Bar plots of reannotation
+Related to Supp. Figure 9
 - `2_Annotation_barplots.ipynb`
