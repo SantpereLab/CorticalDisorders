@@ -7,10 +7,7 @@ We provide our annotation table specifically employed for the Braun dataset with
 
 - Our newly generated datasets, including scRNA-seq and bulk RNA-seq from Control and ASD iPSC lines were deposited in the GEO public database, with accession codes [GSE271968](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE271968) and [GSE271965](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE271965), respectively.
 
-- The primary datasets supporting our findings are accessible through the **NeMO Archive**
-  All datasets utilized in our analyses, including processed data and relevant metadata, are publicly available through our Neuroscience Multi-Omic (NeMO) Archive website. We encourage users to visit the NeMO portal for comprehensive access
-
-- [NeMO Analytics online resource](https://nemoanalytics.org/).
+- All datasets utilized in our analyses, including processed data and relevant metadata, are publicly available through our [**Neuroscience Multi-Omic (NeMO) Archive**](https://nemoanalytics.org/) website. We encourage users to visit the NeMO portal for comprehensive access and browse these data online:
   - Specific views within NeMO Analytics include:
     - [Individual gene expression (NeMO/genes)](https://nemoanalytics.org/p?l=Blanco2024&g=FOXG1).
     - [Expression of disease gene lists (NeMO/diseasegenesets)](https://nemoanalytics.org/p?p=p&l=Blanco2024&c=Blanco2024_CtxDiseaseGeneLists&algo=pca).
