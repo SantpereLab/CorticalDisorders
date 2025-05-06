@@ -1,0 +1,40 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Mato-Blanco
+  given-names: Xoel
+- family-names: Kim
+  given-names: Suel-Kee
+- family-names: Jourdon
+  given-names: Alexandre
+- family-names: Ma
+  given-names: Shaojie
+- family-names: Choi
+  given-names: Sang-Hun
+- family-names: Giani
+  given-names: Alice M.
+- family-names: Paredes
+  given-names: Miguel I.
+- family-names: Tebbenkamp
+  given-names: Andrew T.N.
+- family-names: Liu
+  given-names: Fuchen
+- family-names: Duque
+  given-names: Alvaro
+- family-names: Vaccarino
+  given-names: Flora M.
+- family-names: Sestan
+  given-names: Nenad
+- family-names: Colantuoni
+  given-names: Carlo
+- family-names: Rakic
+  given-names: Pasko
+- family-names: Santpere
+  given-names: Gabriel
+- family-names: Micali
+  given-names: Nicola
+title: "SantpereLab/CorticalDisorders: Early Developmental Origins of Cortical Disorders Modeled in Human Neural Stem Cells"
+version: Nature Communications release
+date-released: 2025-05-06
+repository-code: "https://github.com/SantpereLab/CorticalDisorders"
+license: MIT
