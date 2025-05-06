@@ -16,7 +16,7 @@ The main analysis categories include:
 
 ### Citation
 
-**Early Developmental Origins of Cortical Disorders Modeled in Human Neural Stem Cells**  
+**Early Developmental Origins of Cortical Disorders Modeled in Human Neural Stem Cells**  `bioarxiv`
 Xoel Mato-Blanco, Suel-Kee Kim, Alexandre Jourdon, Shaojie Ma, Andrew T.N. Tebbenkamp, Fuchen Liu, Alvaro Duque, Flora M. Vaccarino, Nenad Sestan, Carlo Colantuoni, Pasko Rakic, Gabriel Santpere, Nicola Micali  
 bioRxiv 2024.06.14.598925; doi: <https://doi.org/10.1101/2024.06.14.598925>
 
