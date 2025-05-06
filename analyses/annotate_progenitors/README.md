@@ -10,6 +10,6 @@ Related to Supp. Figure 10
 
 ## Bar plots of reannotation
 
-Related to Supp. Figure 9  
+Related to Supp. Figure 10 
 
 - `2_Annotation_barplots.ipynb`

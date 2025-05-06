@@ -1,6 +1,9 @@
+
 This repository contains the code used for the paper **_Early Developmental Origins of Cortical Disorders Modeled in Human Neural Stem Cells_**.
 
-Each folder under `analyses` contains the code used for the different analyses performed in the paper. The README.md file in each folder provides a brief description of the analyses performed in that folder.
+### Analyses
+
+Each folder under `analyses` contains the code used for the different analyses performed in the paper. The `README.md` file in each folder provides a brief description of the analyses performed in that folder.
 
 The main analysis categories include:
 
@@ -16,7 +19,7 @@ The main analysis categories include:
 
 ### Citation
 
-**Early Developmental Origins of Cortical Disorders Modeled in Human Neural Stem Cells**  `bioarxiv`  
+`bioarxiv` **Early Developmental Origins of Cortical Disorders Modeled in Human Neural Stem Cells**  
 Xoel Mato-Blanco, Suel-Kee Kim, Alexandre Jourdon, Shaojie Ma, Andrew T.N. Tebbenkamp, Fuchen Liu, Alvaro Duque, Flora M. Vaccarino, Nenad Sestan, Carlo Colantuoni, Pasko Rakic, Gabriel Santpere, Nicola Micali  
 bioRxiv 2024.06.14.598925; doi: <https://doi.org/10.1101/2024.06.14.598925>
 
